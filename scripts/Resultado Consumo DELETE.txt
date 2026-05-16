@@ -1,0 +1,9 @@
+Envía:
+
+http://192.168.15.249:3030/api/v1/webhook/whatsapp/mensajes/31
+
+Respuesta:
+
+{
+    "eliminado": true
+}
