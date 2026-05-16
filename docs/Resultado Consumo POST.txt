@@ -1,0 +1,36 @@
+Envía:
+
+{
+    "nombre": "EMPRESA DE ROGER",
+    "identificacion": "100520261",
+    "tipo_cliente": "empresa",
+    "correo": "EMPRESADEROGER@GMAIL.COM",
+    "telefono": "301 89785784",
+    "ciudad": "BARRANQUILLA",
+    "direccion": "",
+    "notas": ""
+}
+
+
+Responde:
+
+{
+    "p_estado": 1,
+    "p_mensaje": "Cliente creado exitosamente",
+    "result": [
+        {
+            "id_cliente": "3c8926d8-dc6e-4e04-9249-c1d9c0e3466a",
+            "nombre": "EMPRESA DE ROGER",
+            "identificacion": "100520261",
+            "tipo_cliente": "empresa",
+            "correo": "EMPRESADEROGER@GMAIL.COM",
+            "telefono": "30189785784",
+            "ciudad": "BARRANQUILLA",
+            "direccion": "",
+            "notas": "",
+            "estado": "activo",
+            "creado": "2026-05-10T14:38:50.422Z",
+            "actualizado_en": "2026-05-10T14:38:50.422Z"
+        }
+    ]
+}
